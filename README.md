@@ -46,35 +46,6 @@ This repository contains the complete design files, manufacturing outputs, and s
 
 ---
 
-## Repository Structure
-
-RP2350A-DevBoard/
-│
-├── hardware/
-│ ├── schematics/
-│ ├── pcb_files/
-│ ├── libraries/
-│
-├── production/
-│ ├── gerbers/
-│ ├── drill_files/
-│ ├── bom/
-│ └── pick_place/
-│
-├── firmware/
-│ ├── examples/
-│ └── toolchain_setup/
-│
-├── docs/
-│ ├── board_photos/
-│ ├── pinout/
-│ ├── block_diagrams/
-│
-└── README.md
-
-
----
-
 ## Manufacturing Information
 
 This repository includes:

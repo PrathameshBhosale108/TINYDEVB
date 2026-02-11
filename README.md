@@ -74,7 +74,8 @@ Recommended setup:
 
 - ARM GCC toolchain / Pico SDK  
 - C/C++ or assembly programming  
-- USB bootloader or debugger flashing  
+- USB bootloader or debugger flashing
+- MICROPYTHON
 
 ---
 

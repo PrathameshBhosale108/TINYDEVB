@@ -5,6 +5,10 @@ This board focuses on manufacturability, stable power design, clean routing, and
 
 ---
 
+<img width="454" height="923" alt="image" src="https://github.com/user-attachments/assets/2f9117b6-7b9e-4a02-bf8c-44cc98d11dd6" />
+<img width="568" height="718" alt="image" src="https://github.com/user-attachments/assets/940d80b5-50fa-4625-878a-2ede1e9fc392" />
+
+
 ## Project Overview
 
 This repository contains the complete design files, manufacturing outputs, and supporting documentation for a custom RP2350A-based development board.
@@ -115,11 +119,7 @@ Possible future revisions:
 ---
 
 ## License
-
-Recommended licensing:
-
-- Hardware: CERN Open Hardware License  
-- Firmware: MIT or Apache 2.0  
+# MIT 
 
 ---
 
